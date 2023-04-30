@@ -7,7 +7,7 @@ It is intended for use when starting a new SURVIVAL MODE game. It will do nothin
 The idea is to let you have a more varied experience and come up with your own scenarios. 
 This mod goes well with [ChooseStartingGear](https://github.com/GruffCassquatch/ChooseStartingGear). 
 
-##Updated for the latest version of TLD by Phaedrus!
+## Updated for the latest version of TLD by Phaedrus!
 
 ## Requirements
 [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe) 
